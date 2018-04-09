@@ -1,0 +1,3 @@
+[submodule "knx-esp"]
+	path = knx-esp
+	url = https://github.com/thelsing/knx-esp.git
