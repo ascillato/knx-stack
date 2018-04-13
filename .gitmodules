@@ -1,6 +1,12 @@
 [submodule "CreateKnxProd"]
 	path = CreateKnxProd
 	url = https://github.com/thelsing/CreateKnxProd
+	branch = master
 [submodule "knx-linux"]
 	path = knx-linux
 	url = https://github.com/thelsing/knx-linux.git
+	branch = master
+[submodule "knx-esp"]
+	path = knx-esp
+	url = https://github.com/thelsing/knx-esp.git
+	branch = master
